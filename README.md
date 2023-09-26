@@ -1,4 +1,4 @@
-### About Myself 
+## About Myself 
 ![BLack Minimalist Corporate Staff Identity LinkedIn Banner](https://github.com/DataMorelos/DataMorelos/assets/131436962/1caaeb83-2638-4a55-9b25-982b5373c7a7)
 
 Hi, I'm Lemuel Morelos! Graduate from Mapua University with specialization in Data Science. I do data science projects from analyzing sales and data, to implementing a deep learning model to detect objects.
